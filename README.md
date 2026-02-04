@@ -113,7 +113,7 @@ Python-Data-Libraries-Guide/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Nidhichavda07/Python-Dataa-Libraries/blob/main/Python_Data_Libraries_Guide.ipynb
+git clone https://github.com/Nidhichavda07/python-data-science-libraries/blob/main/Python_Data_Libraries_Guide.ipynb
 ```
 
 Then open the notebook in **Google Colab** and start exploring 🚀
